@@ -1,3 +1,4 @@
 streamlit
 langchain-groq
 python-docx
+python-dotenv
